@@ -56,4 +56,4 @@ The AI employs propositional logic to deduce the state of the Minesweeper board.
 
 ## Conclusion
 
-This project showcases the use of a knowledge-based agent to play Minesweeper. The AI uses logic to make smart moves by analyzing its knowledge about the game board. While the AI can make safe moves when it has enough information, there are situations where it must guess when uncertainty arises.# Minesweeper-AI-LogicSolver-Python
+This project showcases the use of a knowledge-based agent to play Minesweeper. The AI uses logic to make smart moves by analyzing its knowledge about the game board. While the AI can make safe moves when it has enough information, there are situations where it must guess when uncertainty arises.
