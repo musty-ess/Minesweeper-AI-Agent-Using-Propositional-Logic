@@ -6,7 +6,10 @@ Minesweeper is a classic puzzle game where players aim to clear a grid of cells 
 - **Dependencies**: The project requires the `pygame` library. 
 
 ## Getting Started
-1. Download the distribution code from [here](https://cdn.cs50.net/ai/2023/x/projects/1/minesweeper.zip) and unzip it.
+1. Clone the repo
+```bash
+git clone https://github.com/musty-ess/Minesweeper-AI-LogicSolver-Python.git
+```
 2. Navigate to the project directory and install the required dependencies:
 ```bash
     pip3 install -r requirements.txt
