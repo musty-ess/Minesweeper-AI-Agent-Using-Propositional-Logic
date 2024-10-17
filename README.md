@@ -1,7 +1,7 @@
 # Minesweeper AI Agent Using Propositional Logic
 
 ## Overview
-Minesweeper is a classic puzzle game where players aim to clear a grid of cells containing hidden mines without detonating any. The game presents a numerical hint for each safe cell, indicating how many neighboring cells contain mines. In this project, we implemented an AI agent that plays Minesweeper, utilizing propositional logic to make informed decisions about which cells to click.
+Minesweeper is a classic puzzle game where players aim to clear a grid of cells containing hidden mines without detonating any. The game presents a numerical hint for each safe cell, indicating how many neighboring cells contain mines. In this project, an AI agent that plays Minesweeper is implemented utilizing propositional logic to make informed decisions about which cells to click.
 
 ## Requirements
 - **Python Version**: This project is compatible with Python 3.12.
